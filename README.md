@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashkumawat03/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/yashkumawat03/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashkumawat03/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/yashkumawat03/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/yashkumawat03/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Math
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/yashkumawat03/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashkumawat03/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/yashkumawat03/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/yashkumawat03/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/yashkumawat03/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/yashkumawat03/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/yashkumawat03/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## String
 |  |
 | ------- |
@@ -267,4 +270,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashkumawat03/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/yashkumawat03/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/yashkumawat03/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
