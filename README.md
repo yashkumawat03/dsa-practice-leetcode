@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/yashkumawat03/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yashkumawat03/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/yashkumawat03/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/yashkumawat03/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yashkumawat03/Leetcode/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/yashkumawat03/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/yashkumawat03/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/yashkumawat03/Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/yashkumawat03/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/yashkumawat03/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/yashkumawat03/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/yashkumawat03/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/yashkumawat03/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/yashkumawat03/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yashkumawat03/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
