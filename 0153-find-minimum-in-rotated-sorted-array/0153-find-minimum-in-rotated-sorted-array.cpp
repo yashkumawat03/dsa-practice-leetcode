@@ -5,8 +5,13 @@ public:
         int low = 0;
         int high = n-1;
         int mini = INT_MAX;
+        if(nums[low] <= nums[high]){
+                mini = nums[low];
+                return mini;
+        }
         while(low <= high){
             int mid = (low + high)/2;
+            
             if(nums[mid] >= nums[low]){
                 mini = min(mini, nums[low]);
                 low = mid+1;
