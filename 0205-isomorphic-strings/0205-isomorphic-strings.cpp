@@ -11,7 +11,8 @@ public:
             // check s -> t
             if(m1.find(c1) != m1.end()){
                 if(m1[c1] != c2) return false;
-            } else {
+            } 
+            else {
                 m1[c1] = c2;
             }
 
