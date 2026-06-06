@@ -16,10 +16,11 @@ public:
             return nullptr;
         }
         int mid = low + (high - low) / 2;
-        TreeNode* root = new TreeNode(nums[mid]);
-        root->left = solve(nums, low , mid-1);
-        root->right = solve(nums, mid+1, high);
-        return root;
+        
+        // root->left = solve(nums, low , mid-1);
+        // root->right = solve(nums, mid+1, high);
+        // return root;
+        return new TreeNode(nums[mid], solve(nums, low , mid-1),solve(nums, mid+1, high) );
     }
     TreeNode* sortedArrayToBST(vector<int>& nums) {
         return solve(nums, 0, nums.size()-1);
