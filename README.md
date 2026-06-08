@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/yashkumawat03/Leetcode/tree/master/0039-combination-sum) |
+| [0113-path-sum-ii](https://github.com/yashkumawat03/Leetcode/tree/master/0113-path-sum-ii) |
 ## Design
 |  |
 | ------- |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashkumawat03/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/yashkumawat03/Leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/yashkumawat03/Leetcode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashkumawat03/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashkumawat03/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yashkumawat03/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/yashkumawat03/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/yashkumawat03/Leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/yashkumawat03/Leetcode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashkumawat03/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashkumawat03/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yashkumawat03/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashkumawat03/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/yashkumawat03/Leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/yashkumawat03/Leetcode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashkumawat03/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashkumawat03/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yashkumawat03/Leetcode/tree/master/0199-binary-tree-right-side-view) |
