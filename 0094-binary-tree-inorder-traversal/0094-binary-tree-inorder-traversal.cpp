@@ -11,18 +11,17 @@
  */
 class Solution {
 public:
-    void solve(TreeNode* root, vector<int> &arr){
-        //base case
-        if(root == NULL){
+    void func(TreeNode* root, vector<int> &temp){
+        if(root == NULL)
             return;
-        }
-        solve(root->left,arr);
-        arr.push_back(root->val);
-        solve(root->right,arr);
+        
+        func(root->left, temp);
+        temp.push_back(root->val);
+        func(root->right, temp);
     }
     vector<int> inorderTraversal(TreeNode* root) {
-        vector<int> arr;
-        solve(root,arr);
-        return arr;
+        vector<int> temp;
+        func(root, temp);
+        return temp;
     }
 };
