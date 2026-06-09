@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/yashkumawat03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yashkumawat03/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yashkumawat03/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yashkumawat03/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/yashkumawat03/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Binary Search
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yashkumawat03/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/yashkumawat03/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/yashkumawat03/Leetcode/tree/master/0912-sort-an-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1552-magnetic-force-between-two-balls](https://github.com/yashkumawat03/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1833-maximum-ice-cream-bars](https://github.com/yashkumawat03/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Divide and Conquer
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/yashkumawat03/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yashkumawat03/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0538-convert-bst-to-greater-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/yashkumawat03/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yashkumawat03/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0538-convert-bst-to-greater-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -424,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/yashkumawat03/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yashkumawat03/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0538-convert-bst-to-greater-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -432,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashkumawat03/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/yashkumawat03/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/yashkumawat03/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Queue
 |  |
