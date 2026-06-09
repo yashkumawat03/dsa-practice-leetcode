@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/yashkumawat03/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/yashkumawat03/Leetcode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/yashkumawat03/Leetcode/tree/master/0912-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/yashkumawat03/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting
 |  |
 | ------- |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/yashkumawat03/Leetcode/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/yashkumawat03/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1382-balance-a-binary-search-tree](https://github.com/yashkumawat03/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1833-maximum-ice-cream-bars](https://github.com/yashkumawat03/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/yashkumawat03/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/yashkumawat03/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/yashkumawat03/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/yashkumawat03/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -477,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/yashkumawat03/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0538-convert-bst-to-greater-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/yashkumawat03/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Iterator
 |  |
 | ------- |
