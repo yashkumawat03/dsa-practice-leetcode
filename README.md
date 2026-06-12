@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/yashkumawat03/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/yashkumawat03/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yashkumawat03/Leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/yashkumawat03/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashkumawat03/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/yashkumawat03/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yashkumawat03/Leetcode/tree/master/0229-majority-element-ii) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yashkumawat03/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/yashkumawat03/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/yashkumawat03/Leetcode/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/yashkumawat03/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/yashkumawat03/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yashkumawat03/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/yashkumawat03/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashkumawat03/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/yashkumawat03/Leetcode/tree/master/0542-01-matrix) |
 ## Prefix Sum
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/yashkumawat03/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashkumawat03/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yashkumawat03/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/yashkumawat03/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/yashkumawat03/Leetcode/tree/master/0207-course-schedule) |
 | [0538-convert-bst-to-greater-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/yashkumawat03/Leetcode/tree/master/0547-number-of-provinces) |
@@ -454,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashkumawat03/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/yashkumawat03/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/yashkumawat03/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/yashkumawat03/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/yashkumawat03/Leetcode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/yashkumawat03/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/yashkumawat03/Leetcode/tree/master/0547-number-of-provinces) |
