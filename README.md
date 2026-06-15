@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yashkumawat03/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/yashkumawat03/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/yashkumawat03/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yashkumawat03/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yashkumawat03/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/yashkumawat03/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/yashkumawat03/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashkumawat03/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/yashkumawat03/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/yashkumawat03/Leetcode/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yashkumawat03/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Simulation
 |  |
 | ------- |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashkumawat03/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/yashkumawat03/Leetcode/tree/master/0561-array-partition) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yashkumawat03/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0881-boats-to-save-people](https://github.com/yashkumawat03/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1382-balance-a-binary-search-tree](https://github.com/yashkumawat03/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1833-maximum-ice-cream-bars](https://github.com/yashkumawat03/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
