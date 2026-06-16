@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/yashkumawat03/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yashkumawat03/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/yashkumawat03/Leetcode/tree/master/0456-132-pattern) |
+| [0474-ones-and-zeroes](https://github.com/yashkumawat03/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/yashkumawat03/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/yashkumawat03/Leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/yashkumawat03/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashkumawat03/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/yashkumawat03/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/yashkumawat03/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0474-ones-and-zeroes](https://github.com/yashkumawat03/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/yashkumawat03/Leetcode/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yashkumawat03/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Simulation
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/yashkumawat03/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yashkumawat03/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/yashkumawat03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/yashkumawat03/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0520-detect-capital](https://github.com/yashkumawat03/Leetcode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/yashkumawat03/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/yashkumawat03/Leetcode/tree/master/1021-remove-outermost-parentheses) |
