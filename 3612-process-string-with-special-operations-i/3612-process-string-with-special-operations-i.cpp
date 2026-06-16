@@ -13,14 +13,7 @@ public:
             }
                 
             else if(s[i] == '#'){
-                if(!result.empty()){
-                    int n = result.length();
-                    int i = 0;
-                    while(n--){
-                        result.push_back(result[i]);
-                        i++;
-                    }
-                }
+                result += result;
             }
                 
             else if(s[i] == '%'){
