@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yashkumawat03/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/yashkumawat03/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/yashkumawat03/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yashkumawat03/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashkumawat03/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/yashkumawat03/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/yashkumawat03/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1552-magnetic-force-between-two-balls](https://github.com/yashkumawat03/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1833-maximum-ice-cream-bars](https://github.com/yashkumawat03/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yashkumawat03/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/yashkumawat03/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1382-balance-a-binary-search-tree](https://github.com/yashkumawat03/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1833-maximum-ice-cream-bars](https://github.com/yashkumawat03/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yashkumawat03/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/yashkumawat03/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
