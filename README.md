@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/yashkumawat03/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yashkumawat03/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yashkumawat03/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0322-coin-change](https://github.com/yashkumawat03/Leetcode/tree/master/0322-coin-change) |
 | [0456-132-pattern](https://github.com/yashkumawat03/Leetcode/tree/master/0456-132-pattern) |
 | [0474-ones-and-zeroes](https://github.com/yashkumawat03/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/yashkumawat03/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashkumawat03/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/yashkumawat03/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/yashkumawat03/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0322-coin-change](https://github.com/yashkumawat03/Leetcode/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/yashkumawat03/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/yashkumawat03/Leetcode/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yashkumawat03/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/yashkumawat03/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/yashkumawat03/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/yashkumawat03/Leetcode/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/yashkumawat03/Leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/yashkumawat03/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/yashkumawat03/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
