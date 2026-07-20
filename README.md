@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/yashkumawat03/Leetcode/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/yashkumawat03/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashkumawat03/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1260-shift-2d-grid](https://github.com/yashkumawat03/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yashkumawat03/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1552-magnetic-force-between-two-balls](https://github.com/yashkumawat03/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yashkumawat03/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/yashkumawat03/Leetcode/tree/master/0054-spiral-matrix) |
+| [1260-shift-2d-grid](https://github.com/yashkumawat03/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashkumawat03/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3612-process-string-with-special-operations-i](https://github.com/yashkumawat03/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Union-Find
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yashkumawat03/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashkumawat03/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/yashkumawat03/Leetcode/tree/master/0542-01-matrix) |
+| [1260-shift-2d-grid](https://github.com/yashkumawat03/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yashkumawat03/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/yashkumawat03/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Prefix Sum
