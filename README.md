@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/yashkumawat03/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/yashkumawat03/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/yashkumawat03/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/yashkumawat03/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/yashkumawat03/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/yashkumawat03/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/yashkumawat03/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0450-delete-node-in-a-bst](https://github.com/yashkumawat03/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
