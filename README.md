@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/yashkumawat03/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/yashkumawat03/Leetcode/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/yashkumawat03/Leetcode/tree/master/0997-find-the-town-judge) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashkumawat03/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashkumawat03/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/yashkumawat03/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yashkumawat03/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/yashkumawat03/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/yashkumawat03/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/yashkumawat03/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashkumawat03/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/yashkumawat03/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yashkumawat03/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashkumawat03/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/yashkumawat03/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashkumawat03/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/yashkumawat03/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
@@ -588,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/yashkumawat03/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/yashkumawat03/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/yashkumawat03/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashkumawat03/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -604,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashkumawat03/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/yashkumawat03/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Iterator
 |  |
