@@ -1,33 +1,42 @@
 class Solution {
 public:
-
-    void dfs(vector<vector<char>>& grid, int i, int j){
-        int m = grid.size();
-        int n = grid[0].size();
-        // Boundary condition or water
-        if(i < 0 || j < 0 || i >= m || j >= n || grid[i][j] == '0'){
-            return;
-        }
-        // Mark visited
-        grid[i][j] = '0';
-        // Four directions
-        dfs(grid, i+1, j); // down
-        dfs(grid, i-1, j); // up
-        dfs(grid, i, j+1); // right
-        dfs(grid, i, j-1); // left
-    }
-    int numIslands(vector<vector<char>>& grid) {
-        int m = grid.size();
-        int n = grid[0].size();
-        int count = 0;
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(grid[i][j]=='1'){
-                    count++;
-                    dfs(grid,i,j);
+    void bfs(int row, int col, vector<vector<char>>& grid, vector<vector<int>>& vis){
+        int n = grid.size();
+        int m = grid[0].size();
+        vis[row][col] = 1;
+        queue<pair<int, int>> q;
+        q.push({row, col});
+        while(!q.empty()){
+            int row = q.front().first;
+            int col = q.front().second;
+            q.pop();
+            int delrow[] = {-1, 0, 0, 1};
+            int delcol[] = {0, -1, 1, 0};
+            for(int i = 0; i < 4; i++){
+                    int nrow = row + delrow[i];
+                    int ncol = col + delcol[i];
+                    if(nrow >= 0 && nrow< n && ncol >= 0 && ncol < m
+                        && !vis[nrow][ncol] && grid[nrow][ncol] == '1'){
+                            q.push({nrow, ncol});
+                            vis[nrow][ncol] = 1;
+                        }
                 }
             }
         }
-        return count;
+    
+    int numIslands(vector<vector<char>>& grid) {
+        int n = grid.size();
+        int m = grid[0].size();
+        int cnt = 0;
+        vector<vector<int>> vis(n, vector<int>(m));
+        for(int row = 0; row < n; row++){
+            for(int col = 0; col < m; col++){
+                if(!vis[row][col] && grid[row][col] == '1'){
+                    cnt++;
+                    bfs(row, col, grid, vis);
+                }
+            }
+        }
+        return cnt;
     }
 };
