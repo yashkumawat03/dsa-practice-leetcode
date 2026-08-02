@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/yashkumawat03/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/yashkumawat03/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashkumawat03/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/yashkumawat03/Leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/yashkumawat03/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/yashkumawat03/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yashkumawat03/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/yashkumawat03/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/yashkumawat03/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/yashkumawat03/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/yashkumawat03/Leetcode/tree/master/0695-max-area-of-island) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yashkumawat03/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yashkumawat03/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashkumawat03/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/yashkumawat03/Leetcode/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/yashkumawat03/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yashkumawat03/Leetcode/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/yashkumawat03/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yashkumawat03/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/yashkumawat03/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/yashkumawat03/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yashkumawat03/Leetcode/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -573,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/yashkumawat03/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/yashkumawat03/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/yashkumawat03/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yashkumawat03/Leetcode/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yashkumawat03/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
