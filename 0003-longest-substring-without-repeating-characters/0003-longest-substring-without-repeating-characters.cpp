@@ -2,25 +2,19 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         int n = s.length();
-        // Sliding window with freq array(repeating characters check)
-        int i = 0, j = 0;
-        int max_len = 0;
-        vector<bool> freq(256,false);
-        while(j<n){
-            while(freq[s[j]] == true)  // already in the window
-            {
-                freq[s[i]] = false;
+        int i = 0;
+        int j = 0;
+        int maxLen = 0;
+        vector<int> freq(256);
+        while(j < n){
+            while(freq[s[j]] == 1){
+                freq[s[i]] = 0;
                 i++;
             }
-
-            //not in window
-            freq[s[j]] = true;
-            int curr_len = j-i+1;
-            if(curr_len > max_len){
-                max_len = curr_len;
-            }
+            freq[s[j]] = 1;
+            maxLen = max(j - i + 1, maxLen);
             j++;
         }
-        return max_len;
+        return maxLen;
     }
 };
