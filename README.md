@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yashkumawat03/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/yashkumawat03/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/yashkumawat03/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashkumawat03/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/yashkumawat03/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
 |  |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/yashkumawat03/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashkumawat03/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashkumawat03/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashkumawat03/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3612-process-string-with-special-operations-i](https://github.com/yashkumawat03/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Greedy
 |  |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yashkumawat03/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yashkumawat03/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/yashkumawat03/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashkumawat03/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
 |  |
 | ------- |
