@@ -690,4 +690,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/yashkumawat03/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/yashkumawat03/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/yashkumawat03/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/yashkumawat03/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/yashkumawat03/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
